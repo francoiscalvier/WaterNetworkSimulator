@@ -1,0 +1,754 @@
+client PrivateSector 7
+7
+32.0
+meter
+sensor31
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor32
+ is activated true
+ frequency 0
+ measure 1.0 during 8378ms
+client PrivateSector 19
+19
+32.0
+meter
+sensor55
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor56
+ is activated true
+ frequency 0
+ measure 1.0 during 2700ms
+client PrivateSector 24
+24
+32.0
+meter
+sensor65
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor66
+ is activated true
+ frequency 0
+ measure 1.0 during 10493ms
+client PrivateSector 22
+22
+32.0
+meter
+sensor61
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor62
+ is activated true
+ frequency 0
+ measure 1.0 during 8844ms
+client PrivateSector 14
+14
+32.0
+meter
+sensor45
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor46
+ is activated true
+ frequency 0
+ measure 1.0 during 6765ms
+client PrivateSector 18
+18
+32.0
+meter
+sensor53
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor54
+ is activated true
+ frequency 0
+ measure 1.0 during 7674ms
+client PrivateSector 6
+6
+32.0
+meter
+sensor29
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor30
+ is activated true
+ frequency 0
+ measure 1.0 during 4468ms
+client PrivateSector 15
+15
+32.0
+meter
+sensor47
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor48
+ is activated true
+ frequency 0
+ measure 1.0 during 1363ms
+client PrivateSector 10
+10
+32.0
+meter
+sensor37
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor38
+ is activated true
+ frequency 0
+ measure 1.0 during 4701ms
+client PrivateSector 25
+25
+32.0
+meter
+sensor67
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor68
+ is activated true
+ frequency 0
+ measure 1.0 during 7907ms
+client PrivateSector 21
+21
+32.0
+meter
+sensor59
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor60
+ is activated true
+ frequency 0
+ measure 1.0 during 3105ms
+client PrivateSector 20
+20
+32.0
+meter
+sensor57
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor58
+ is activated true
+ frequency 0
+ measure 1.0 during 9350ms
+client PrivateSector 14
+14
+32.0
+meter
+sensor45
+ is activated true
+ frequency 1
+ measure 109442.025
+valve
+sensor46
+ is activated true
+ frequency 0
+ measure 1.0 during 4804ms
+client PrivateSector 8
+8
+32.0
+meter
+sensor33
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor34
+ is activated true
+ frequency 0
+ measure 1.0 during 5470ms
+client PrivateSector 11
+11
+32.0
+meter
+sensor39
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor40
+ is activated true
+ frequency 0
+ measure 1.0 during 4842ms
+client PrivateSector 12
+12
+32.0
+meter
+sensor41
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor42
+ is activated true
+ frequency 0
+ measure 1.0 during 1593ms
+client PrivateSector 15
+15
+32.0
+meter
+sensor47
+ is activated true
+ frequency 1
+ measure 15634.575
+valve
+sensor48
+ is activated true
+ frequency 0
+ measure 1.0 during 10749ms
+client PrivateSector 7
+7
+32.0
+meter
+sensor31
+ is activated true
+ frequency 1
+ measure 125076.6
+valve
+sensor32
+ is activated true
+ frequency 0
+ measure 1.0 during 3724ms
+client PrivateSector 16
+16
+32.0
+meter
+sensor49
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor50
+ is activated true
+ frequency 0
+ measure 1.0 during 9022ms
+client PrivateSector 18
+18
+32.0
+meter
+sensor53
+ is activated true
+ frequency 1
+ measure 109442.025
+valve
+sensor54
+ is activated true
+ frequency 0
+ measure 1.0 during 1054ms
+client PrivateSector 22
+22
+32.0
+meter
+sensor61
+ is activated true
+ frequency 1
+ measure 125076.6
+valve
+sensor62
+ is activated true
+ frequency 0
+ measure 1.0 during 3759ms
+client PrivateSector 24
+24
+32.0
+meter
+sensor65
+ is activated true
+ frequency 1
+ measure 156345.75
+valve
+sensor66
+ is activated true
+ frequency 0
+ measure 1.0 during 3763ms
+client PrivateSector 12
+12
+32.0
+meter
+sensor41
+ is activated true
+ frequency 1
+ measure 15634.575
+valve
+sensor42
+ is activated true
+ frequency 0
+ measure 1.0 during 6186ms
+client PrivateSector 25
+25
+32.0
+meter
+sensor67
+ is activated true
+ frequency 1
+ measure 109442.025
+valve
+sensor68
+ is activated true
+ frequency 0
+ measure 1.0 during 4229ms
+client PrivateSector 18
+18
+32.0
+meter
+sensor53
+ is activated true
+ frequency 1
+ measure 125076.6
+valve
+sensor54
+ is activated true
+ frequency 0
+ measure 1.0 during 8767ms
+client PrivateSector 9
+9
+32.0
+meter
+sensor35
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor36
+ is activated true
+ frequency 0
+ measure 1.0 during 9578ms
+client PrivateSector 21
+21
+32.0
+meter
+sensor59
+ is activated true
+ frequency 1
+ measure 46903.725
+valve
+sensor60
+ is activated true
+ frequency 0
+ measure 1.0 during 1033ms
+client PrivateSector 22
+22
+32.0
+meter
+sensor61
+ is activated true
+ frequency 1
+ measure 187614.9
+valve
+sensor62
+ is activated true
+ frequency 0
+ measure 1.0 during 2120ms
+client PrivateSector 23
+23
+32.0
+meter
+sensor63
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor64
+ is activated true
+ frequency 0
+ measure 1.0 during 7310ms
+client PrivateSector 6
+6
+32.0
+meter
+sensor29
+ is activated true
+ frequency 1
+ measure 62538.3
+valve
+sensor30
+ is activated true
+ frequency 0
+ measure 1.0 during 5388ms
+client PrivateSector 21
+21
+32.0
+meter
+sensor59
+ is activated true
+ frequency 1
+ measure 62538.3
+valve
+sensor60
+ is activated true
+ frequency 0
+ measure 1.0 during 5515ms
+client PrivateSector 7
+7
+32.0
+meter
+sensor31
+ is activated true
+ frequency 1
+ measure 187614.9
+valve
+sensor32
+ is activated true
+ frequency 0
+ measure 1.0 during 10262ms
+client PrivateSector 11
+11
+32.0
+meter
+sensor39
+ is activated true
+ frequency 1
+ measure 78172.875
+valve
+sensor40
+ is activated true
+ frequency 0
+ measure 1.0 during 5359ms
+client PrivateSector 10
+10
+32.0
+meter
+sensor37
+ is activated true
+ frequency 1
+ measure 62538.3
+valve
+sensor38
+ is activated true
+ frequency 0
+ measure 1.0 during 4834ms
+client PrivateSector 15
+15
+32.0
+meter
+sensor47
+ is activated true
+ frequency 1
+ measure 171980.325
+valve
+sensor48
+ is activated true
+ frequency 0
+ measure 1.0 during 9403ms
+client PrivateSector 14
+14
+32.0
+meter
+sensor45
+ is activated true
+ frequency 1
+ measure 171980.325
+valve
+sensor46
+ is activated true
+ frequency 0
+ measure 1.0 during 3915ms
+client PrivateSector 23
+23
+32.0
+meter
+sensor63
+ is activated true
+ frequency 1
+ measure 109442.025
+valve
+sensor64
+ is activated true
+ frequency 0
+ measure 1.0 during 4340ms
+client PrivateSector 16
+16
+32.0
+meter
+sensor49
+ is activated true
+ frequency 1
+ measure 140711.175
+valve
+sensor50
+ is activated true
+ frequency 0
+ measure 1.0 during 10201ms
+client PrivateSector 22
+22
+32.0
+meter
+sensor61
+ is activated true
+ frequency 1
+ measure 218884.05
+valve
+sensor62
+ is activated true
+ frequency 0
+ measure 1.0 during 8060ms
+client PrivateSector 24
+24
+32.0
+meter
+sensor65
+ is activated true
+ frequency 1
+ measure 203249.475
+valve
+sensor66
+ is activated true
+ frequency 0
+ measure 1.0 during 6449ms
+client PrivateSector 11
+11
+32.0
+meter
+sensor39
+ is activated true
+ frequency 1
+ measure 156345.75
+valve
+sensor40
+ is activated true
+ frequency 0
+ measure 1.0 during 4564ms
+client PrivateSector 20
+20
+32.0
+meter
+sensor57
+ is activated true
+ frequency 1
+ measure 140711.175
+valve
+sensor58
+ is activated true
+ frequency 0
+ measure 1.0 during 1328ms
+client PrivateSector 17
+17
+32.0
+meter
+sensor51
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor52
+ is activated true
+ frequency 0
+ measure 1.0 during 2443ms
+client PrivateSector 10
+10
+32.0
+meter
+sensor37
+ is activated true
+ frequency 1
+ measure 140711.175
+valve
+sensor38
+ is activated true
+ frequency 0
+ measure 1.0 during 2671ms
+client PrivateSector 13
+13
+32.0
+meter
+sensor43
+ is activated true
+ frequency 1
+ measure 0.0
+valve
+sensor44
+ is activated true
+ frequency 0
+ measure 1.0 during 3978ms
+client PrivateSector 19
+19
+32.0
+meter
+sensor55
+ is activated true
+ frequency 1
+ measure 31269.15
+valve
+sensor56
+ is activated true
+ frequency 0
+ measure 1.0 during 7619ms
+client PrivateSector 20
+20
+32.0
+meter
+sensor57
+ is activated true
+ frequency 1
+ measure 156345.75
+valve
+sensor58
+ is activated true
+ frequency 0
+ measure 1.0 during 4925ms
+client PrivateSector 9
+9
+32.0
+meter
+sensor35
+ is activated true
+ frequency 1
+ measure 140711.175
+valve
+sensor36
+ is activated true
+ frequency 0
+ measure 1.0 during 8156ms
+client PrivateSector 8
+8
+32.0
+meter
+sensor33
+ is activated true
+ frequency 1
+ measure 78172.875
+valve
+sensor34
+ is activated true
+ frequency 0
+ measure 1.0 during 4308ms
+client PrivateSector 25
+25
+32.0
+meter
+sensor67
+ is activated true
+ frequency 1
+ measure 171980.325
+valve
+sensor68
+ is activated true
+ frequency 0
+ measure 1.0 during 6860ms
+client PrivateSector 14
+14
+32.0
+meter
+sensor45
+ is activated true
+ frequency 1
+ measure 234518.625
+valve
+sensor46
+ is activated true
+ frequency 0
+ measure 1.0 during 1309ms
+client PrivateSector 6
+6
+32.0
+meter
+sensor29
+ is activated true
+ frequency 1
+ measure 140711.175
+valve
+sensor30
+ is activated true
+ frequency 0
+ measure 1.0 during 5547ms
+client PrivateSector 24
+24
+32.0
+meter
+sensor65
+ is activated true
+ frequency 1
+ measure 297056.925
+valve
+sensor66
+ is activated true
+ frequency 0
+ measure 1.0 during 6300ms
+client PrivateSector 7
+7
+32.0
+meter
+sensor31
+ is activated true
+ frequency 1
+ measure 343960.65
+valve
+sensor32
+ is activated true
+ frequency 0
+ measure 1.0 during 8414ms
+client PrivateSector 11
+11
+32.0
+meter
+sensor39
+ is activated true
+ frequency 1
+ measure 234518.625
+valve
+sensor40
+ is activated true
+ frequency 0
+ measure 1.0 during 2400ms
+client PrivateSector 18
+18
+32.0
+meter
+sensor53
+ is activated true
+ frequency 1
+ measure 265787.775
+valve
+sensor54
+ is activated true
+ frequency 0
+ measure 1.0 during 10756ms
+client PrivateSector 22
+22
+32.0
+meter
+sensor61
+ is activated true
+ frequency 1
+ measure 343960.65
+valve
+sensor62
+ is activated true
+ frequency 0
+ measure 1.0 during 1299ms
+client PrivateSector 15
+15
+32.0
+meter
+sensor47
+ is activated true
+ frequency 1
+ measure 328326.075
+valve
+sensor48
+ is activated true
+ frequency 0
+ measure 1.0 during 1900ms
